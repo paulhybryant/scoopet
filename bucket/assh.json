@@ -13,8 +13,7 @@
             "hash": "0605d1f22a4af530ee206049fb58484a11c20ec71e32b2f6b9b07f7d1f632648"
         }
     },
-    "extract_dir": "assh-v2.16.0",
-    "bin": "bin\\assh.exe",
+    "bin": "assh.exe",
     "shortcuts": [
         [
             "assh.exe",
@@ -32,7 +31,6 @@
             "32bit": {
                 "url": "https://github.com/moul/assh/releases/download/v$version/assh_$version.tar.gz"
             }
-        },
-        "extract_dir": "assh-v$version"
+        }
     }
 }
