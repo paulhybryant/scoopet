@@ -20,9 +20,7 @@
             "assh"
         ]
     ],
-    "checkver": {
-        "github": "https://github.com/moul/assh"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
